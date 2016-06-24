@@ -1,0 +1,4 @@
+class dog
+{
+    int leg;
+}
